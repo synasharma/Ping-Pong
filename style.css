@@ -1,0 +1,26 @@
+body
+{
+    font-family:monosapce;
+    
+}
+h1
+{
+    font-size:35px !important;
+    margin-left:155px;
+}
+
+.heading
+{
+    float:right !important;
+    margin:10px;
+   
+}
+.mc
+{
+    font-size:20px !important;
+}
+
+#play,#reload
+{
+    font-size:25px;
+}
